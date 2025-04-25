@@ -1,0 +1,2 @@
+source C:/Espressif/frameworks/esp-idf-v5.4/lcd_project/build/bootloader/gdbinit/symbols
+source C:/Espressif/frameworks/esp-idf-v5.4/lcd_project/build/bootloader/gdbinit/connect
