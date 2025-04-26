@@ -21,7 +21,7 @@ This project demonstrates how to interface a 16x2 HD44780-based LCD with an ESP3
 - Breadboard
 - Jumper Wires
 - USB Cable for ESP32
-- 220kΩ 10kΩ Resistor (for contrast control)
+- 220Ω 10kΩ Resistor (for contrast control)
 
 ---
 
@@ -41,7 +41,7 @@ This project demonstrates how to interface a 16x2 HD44780-based LCD with an ESP3
 | 12      | D5    | GPIO19            |
 | 13      | D6    | GPIO21            |
 | 14      | D7    | GPIO22            |
-| 15      | LED+  | 5V 220kΩ resistor |
+| 15      | LED+  | 5V 220Ω resistor |
 | 16      | LED-  | ESP32 GND         |
 
 > ✅ **Important Notes**:
