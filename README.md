@@ -78,15 +78,20 @@ No random symbols if properly grounded and powered
 
 -----
 
-📸 Output Pictures and Video 
-Circuit conncetion picture
+### 📸 Output Pictures and Video 
+
+### 📸 Circuit conncetion picture
+
 ![LCD Output](https://github.com/melvinjoshua-emblock/esp32-lcd-drive/blob/71609fe1e5abb49ab01d52949db0abef8ff01380/Connection%20setup.jpg)
 
-LCD display output 
+### 📸 LCD display output 
+
 ![LCD Output](https://github.com/melvinjoshua-emblock/esp32-lcd-drive/blob/71609fe1e5abb49ab01d52949db0abef8ff01380/LCD%20txt%20.jpg)
 
-LCD display output video
-![LCD Output](https://github.com/melvinjoshua-emblock/esp32-lcd-drive/blob/71609fe1e5abb49ab01d52949db0abef8ff01380/Video%20of%20LCD%20text.mp4)
+### 🎥 LCD Output Video
+
+▶️ [Watch Video](https://github.com/melvinjoshua-emblock/esp32-lcd-drive/blob/71609fe1e5abb49ab01d52949db0abef8ff01380/Video%20of%20LCD%20text.mp4)
+
 
 ----
 ## 🔧 Troubleshooting
